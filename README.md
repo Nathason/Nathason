@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nathason
+- 👀 I’m interested in java coding, for SE an EE
+- 🌱 I’m currently learning Java EE 
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me on my mail (nathasonjackson@gmail.com), and my phone contact +2349026136522
